@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bussilab website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Group coordinated by Giovanni Bussi at SISSA"
+name                     : "Giovanni Bussi"
 # description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -129,7 +129,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/bussilab
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
